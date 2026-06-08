@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-with-pytest",
+      "title": "Writing Tests for Python Code",
+      "description": "Learn to write unit tests using pytest. Verify your code works correctly by testing functions with assertions, edge cases, and error handling.",
+      "path": "assignments/testing-with-pytest",
+      "dueDate": "2026-06-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
